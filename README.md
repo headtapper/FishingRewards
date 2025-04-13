@@ -40,9 +40,9 @@ Grant additional items to players for catching fish with configurable loot table
 
 # Loot Drop Tests
 ```
-Total Items Rewarded: 1000000
 1 000 000 Drop Rewards
 Chance of Reward: 100%
+Total Items Rewarded: 1000000
 Item                    Actual Drops            Original Chance         Config Weight
 rifle.ak                       10206                       1.03                     1
 rifle.l96                      10320                       1.03                     1
